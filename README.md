@@ -4,7 +4,7 @@
 
 - I'm a machine learning engineer with a passion for deep neural nets and computer vision. I love working on real-world solutions using AI to make a positive impact in areas such as health, agriculture, and industry.
 
-- 🔭 I’m currently working on **Arabic Sign Language**
+- 🔭 I’m currently working on **Transformers**
 
 - 🌱 I’m currently learning **Tensorflow , sklearn**
 
