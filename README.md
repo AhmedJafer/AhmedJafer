@@ -2,15 +2,29 @@
 <h3 align="center">AI enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
 
-- I'm a machine learning engineer with a passion for deep neural nets and computer vision. I love working on real-world solutions using AI to make a positive impact in areas such as health, agriculture, and industry.
+### Hi, I'm Ahmed Jafer 👋
 
-- 🔭 I’m currently working on **Large Language Models**
+I'm an AI engineer with a Master of Science (M.Sc.) degree, specializing in **Machine Learning**, **Computer Vision**, and **Natural Language Processing (NLP)**. My passion is harnessing the power of **Deep Learning** and **AI** to solve real-world problems that can make a meaningful impact across various industries, including healthcare, agriculture, and industrial automation.
 
-- 🌱 I’m currently learning **Large Language Models**
+- 🔭 I’m currently working on **Large Language Models (LLMs)** and their applications in various domains.
+- 🌱 I’m currently diving deeper into advanced **NLP** techniques and exploring the latest in **transformer architectures**.
+- 👁️ I have a strong interest in **Computer Vision**, with experience in developing AI models for image recognition, object detection, and video analysis.
+- 🤖 I'm also fascinated by **multimodal AI**—combining vision, text, and audio data to create more robust models.
+- 💬 Ask me about anything **Machine Learning (ML)**, **AI**, and **Deep Learning**—I'm always happy to collaborate on exciting projects.
+- 📊 My skills include **model deployment**, **scalability**, and optimizing models for **production environments**.
 
-- 💬 Ask me about **ML and AI**
+### Tools and Technologies I Work With:
+- **Programming:** Python, TensorFlow, PyTorch, Keras, OpenCV
+- **ML & AI Libraries:** scikit-learn, Hugging Face Transformers, NLTK, spaCy
+- **Data Engineering:** Pandas, NumPy
+- **Version Control:** Git, GitHub
 
-- 📫 How to reach me **eng.ahmedjafer@gmail.com**
+### Areas I'm Interested In:
+- **Autonomous systems** and how AI can power the next generation of robots.
+- **AI Ethics**—building responsible, fair, and transparent AI models.
+
+📫 **How to reach me:** eng.ahmedjafer@gmail.com
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
