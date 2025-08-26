@@ -1,30 +1,41 @@
-<h1 align="center">Hi 👋, I'm Ahmed Jafer</h1>
-<h3 align="center">AI enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
+<h1 align="center">Ahmed Jafer</h1>
+<h3 align="center">AI Engineer & Researcher | Agents • Diffusion Models • Energy-Based Models • LLMs • Computer Vision</h3>
 
-### Hi, I'm Ahmed Jafer 👋
+<p align="center">
+  <a href="https://linkedin.com/in/ahmad-j-abdulraheem">LinkedIn</a> |
+  <a href="mailto:eng.ahmedjafer@gmail.com">Email</a>
+</p>
 
-I'm an AI engineer with a Master of Science (M.Sc.) degree, specializing in **Machine Learning**, **Computer Vision**, and **Natural Language Processing (NLP)**. My passion is harnessing the power of **Deep Learning** and **AI** to solve real-world problems that can make a meaningful impact across various industries, including healthcare, agriculture, and industrial automation.
+### About Me  
+---
+I hold an **M.Sc. in Artificial Intelligence** with research and applied experience in **Machine Learning, Computer Vision, and Natural Language Processing (NLP)**.  
 
-- 🔭 I’m currently working on **Large Language Models (LLMs)** and their applications in various domains.
-- 🌱 I’m currently diving deeper into advanced **NLP** techniques and exploring the latest in **transformer architectures**.
-- 👁️ I have a strong interest in **Computer Vision**, with experience in developing AI models for image recognition, object detection, and video analysis.
-- 🤖 I'm also fascinated by **multimodal AI**—combining vision, text, and audio data to create more robust models.
-- 💬 Ask me about anything **Machine Learning (ML)**, **AI**, and **Deep Learning**—I'm always happy to collaborate on exciting projects.
-- 📊 My skills include **model deployment**, **scalability**, and optimizing models for **production environments**.
+My work spans **Large Language Models (LLMs)**, **Agents**, **Diffusion Models**, and **Energy-Based Models (EBMs)**, with a strong interest in how these systems can generalize, reason, and generate across diverse domains.  
+I am particularly motivated by building **robust multimodal AI systems** that integrate vision, language, and decision-making for impactful applications in healthcare, automation, and beyond.  
 
-### Tools and Technologies I Work With:
-- **Programming:** Python, TensorFlow, PyTorch, Keras, OpenCV
-- **ML & AI Libraries:** scikit-learn, Hugging Face Transformers, NLTK, spaCy
-- **Data Engineering:** Pandas, NumPy
-- **Version Control:** Git, GitHub
+Previously, I have developed AI models for **image recognition, object detection, video analysis**, and **transformer-based NLP**.  
+Currently, my focus is on **AI agents**, **diffusion models**, and **energy-based models**, combining reasoning, planning, and generative modeling to design more generalizable and capable AI systems.  
 
-### Areas I'm Interested In:
-- **Autonomous systems** and how AI can power the next generation of robots.
-- **AI Ethics**—building responsible, fair, and transparent AI models.
+### Research & Professional Interests  
+---
+My research focuses on **designing generalizable AI systems** with capabilities in reasoning, planning, and multimodal generation.  
+Broadly, I am interested in:  
 
-📫 **How to reach me:** eng.ahmedjafer@gmail.com
+- **AI Agents** – autonomous, adaptive decision-making systems  
+- **Generative AI** – diffusion models, **energy-based models (EBMs)**, LLMs, and multimodal generation  
+- **Cognitive AI** – studying reasoning mechanisms in LLMs and agent architectures  
+- **Computer Vision** – perception-driven AI for real-world applications  
+- **Optimization & Scalability** – making AI systems efficient, robust, and production-ready  
+- **AI Ethics** – building responsible, interpretable, and transparent AI systems  
 
+### Technical Skills  
+---
+- **Programming:** Python, C/C++, MATLAB  
+- **ML/AI Frameworks:** PyTorch, TensorFlow, Keras  
+- **Libraries & Tools:** Hugging Face Transformers, scikit-learn, OpenCV, spaCy, NLTK  
+- **Generative AI:** Diffusion Models, Energy-Based Models, Stable Diffusion, LangChain, Agentic Systems  
+- **Data Science:** Pandas, NumPy, data preprocessing & visualization  
+- **Deployment & Engineering:** Git, GitHub, **Model Optimization & Scalability**, production-ready pipelines  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
